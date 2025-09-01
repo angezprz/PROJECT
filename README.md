@@ -1,4 +1,4 @@
-# 📂 Machine Learning Projects
+# 📂 🚀 Data Science Portfolio
 
 A curated collection of end-to-end machine learning projects showcasing my skills in **data preprocessing, model development, evaluation, and deployment-ready workflows**.  
 Each project is fully self-contained with its own code, data pipeline, and documentation.
